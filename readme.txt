@@ -1,4 +1,5 @@
 leo kuo
 cool guy
 bro
-git has a mutable index called stage 
+git has a mutable index called stage
+some dumbshit 
